@@ -1,0 +1,14 @@
+@import '../../assets/variables.scss';
+
+.burger_menu {
+    height:40px;
+    width:40px;
+    background-color:$gold;
+}
+
+.nav_menu{
+    display:flex;
+    justify-content: space-between;
+    height:40px;
+    width:100%;
+}

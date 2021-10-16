@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2577"
+   width="86.290001"
+   height="86.290001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2581" />
+  <sodipodi:namedview
+     id="namedview2579"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <inkscape:clipboard
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#dfb777;fill-opacity:1;stroke-width:0.99999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     min="652.85936,587.21993"
+     max="739.14936,673.50993"
+     geom-min="652.85936,587.21993"
+     geom-max="739.14936,673.50993" />
+  <g
+     id="g2583"
+     transform="matrix(3.7795276,0,0,3.7795276,-652.85937,-587.21993)">
+    <g
+       id="g28"
+       transform="matrix(0.26458333,0,0,0.26458333,99.041311,62.005086)"
+       style="fill:#dfb777;fill-opacity:1">
+      <path
+         d="m 352.38,390.02 c 0,-20.24 -16.46,-36.7 -36.7,-36.7 -20.24,0 -36.7,16.46 -36.7,36.7 0,20.24 16.46,36.7 36.7,36.7 9.39,0 17.96,-3.54 24.45,-9.36 l 21.16,21.16 2.88,-2.88 -21.16,-21.16 c 5.82,-6.5 9.37,-15.07 9.37,-24.46 z m -69.32,0 c 0,-17.99 14.63,-32.62 32.62,-32.62 17.99,0 32.62,14.63 32.62,32.62 0,17.99 -14.63,32.62 -32.62,32.62 -17.99,0 -32.62,-14.63 -32.62,-32.62 z"
+         id="path24"
+         style="fill:#dfb777;fill-opacity:1" />
+      <path
+         d="m 361.3,439.16 -21.18,-21.18 c -6.78,5.93 -15.44,9.19 -24.44,9.19 -20.48,0 -37.15,-16.66 -37.15,-37.15 0,-20.48 16.66,-37.15 37.15,-37.15 20.48,0 37.15,16.66 37.15,37.15 0,9 -3.26,17.66 -9.19,24.44 l 21.18,21.18 z m -21.15,-22.42 21.15,21.15 2.25,-2.25 -21.15,-21.15 0.28,-0.32 c 5.96,-6.66 9.25,-15.24 9.25,-24.15 0,-19.99 -16.26,-36.25 -36.25,-36.25 -19.99,0 -36.25,16.26 -36.25,36.25 0,19.99 16.26,36.25 36.25,36.25 8.92,0 17.5,-3.28 24.15,-9.25 z m -24.47,6.35 c -18.23,0 -33.07,-14.84 -33.07,-33.07 0,-18.23 14.83,-33.07 33.07,-33.07 18.23,0 33.07,14.83 33.07,33.07 0,18.23 -14.84,33.07 -33.07,33.07 z m 0,-65.24 c -17.74,0 -32.17,14.43 -32.17,32.17 0,17.74 14.43,32.17 32.17,32.17 17.74,0 32.17,-14.43 32.17,-32.17 0,-17.74 -14.43,-32.17 -32.17,-32.17 z"
+         id="path26"
+         style="fill:#dfb777;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
